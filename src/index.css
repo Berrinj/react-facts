@@ -81,6 +81,7 @@ nav {
 .nav-content>h2 {
   color: #61DBFB;
   margin-right: auto;
+  padding-left: 10px;
 }
 
 .nav-content>h3 {
@@ -91,6 +92,7 @@ nav {
 #root {
   max-width: 100%;
   padding: 0;
+  min-height: 100vh;
   /* height: 100vh;
   display: flex;
   flex-direction: column; */
